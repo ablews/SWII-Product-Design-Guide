@@ -2,7 +2,7 @@
 
 We convey our visual identity through the products we build. Design guidelines help us to work together on sophisticated digital products, using a standardised visual language. 
 
-The NHS Identity is one of the most recognised and cherished brands in the world. It evokes trust and reassurance.
+The NHS Identity is one of the most recognised and cherished brands in the world. It evokes trust and confidence.
 
 > Branding is the art of becoming knowable, likeable, and trustable.
 
