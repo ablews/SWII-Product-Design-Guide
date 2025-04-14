@@ -8,7 +8,7 @@
 
 > **This material is maintained by the [NHS England Analytical Products Development team](mailto:England.AnalyticsProductsTeam@nhs.net)**.
 >
-> See our other work here: [NHS England Analytical Services](https://github.com/NHSDigital/data-analytics-services).
+> See our other work here [NHS England Analytical Services](https://github.com/NHSDigital/data-analytics-services).
 
 <br>
 
